@@ -1,4 +1,4 @@
-# Unihox-AI-WebMetadata-and-OCR-Extract-Harvester
+# Unihox AI WebMetadata and OCR Extract Harvester
 
 A robust asynchronous Python pipeline for crawling, downloading, extracting, and structuring metadata from Sanskrit and culturally relevant document repositories. Built to fulfill the requirements of the Data Harvesting & Structuring Assignment with advanced OCR and web scraping features.
 
